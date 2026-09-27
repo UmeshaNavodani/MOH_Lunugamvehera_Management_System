@@ -25,7 +25,7 @@
     <div class="relative z-10 text-center w-full max-w-5xl px-6">
 
         <!-- Title -->
-        <h1 class="text-4xl md:text-5xl font-bold text-white mb-3">
+        <h1 class="text-2xl md:text-5xl font-bold text-white mb-3">
             MOH Lunugamvehera Healthcare System
         </h1>
 
