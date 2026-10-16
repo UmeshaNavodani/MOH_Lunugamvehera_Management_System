@@ -63,7 +63,7 @@
 
                 <h2 class="text-xl font-semibold text-white">MOH Officer Panel</h2>
 
-                <p class="text-white/70 text-sm mt-2">
+                <p class="text-white/70 text-sm mt-2"> 
                     Monitor patients, vaccinations, maternal health, and diseases
                 </p>
 
